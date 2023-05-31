@@ -1,0 +1,47 @@
+#result{
+  margin: 0px 0px 20px 0px;
+  padding: 0px 8px;
+  border: 2px solid rgb(2, 78, 93);
+  border-radius: 14px;
+  text-align: right;
+  font-size: 31px;
+}
+.butto{
+  border: 2px solid rgb(2, 78, 93);
+  border-radius: 12px;
+  width: 45px;
+  padding: 16px;
+}
+.bg{
+margin: 0% 0% 0% 0%;
+ background-color: rgb(145, 145, 185);
+ border: 2px solid rgb(2, 78, 93);
+ border-radius: 12px;
+}
+.visual{
+  padding : 43px 0px;
+  margin: auto;
+  max-width: 24%;
+ 
+  
+}
+body{
+  align-content: center;
+  margin-top: 5px;
+}
+
+
+.flex{
+ display: flex;
+}  
+.flex-col{
+  flex-direction: column;
+  align-items: center;
+}
+#red{
+ color: rgb(255, 0, 0);
+}
+.AC{
+  background: red;
+  color: 1px solid black;
+}
